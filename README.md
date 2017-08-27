@@ -12,4 +12,4 @@ Will be updated on a regular base until all flags are here.
 <img src="https://d13yacurqjgara.cloudfront.net/users/7576/screenshots/2157581/dribbble_2x.png">
 
 ## Next:
-- South America
+- Africa
