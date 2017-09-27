@@ -1,5 +1,5 @@
-# SEOshop-Flags
-An opensource flag set made possible by the SEOshop Design team.
+# Lightspeed Flags
+An opensource flag set made possible by the Lightspeed Design team.
 All flags are available in 16x12 and 32x24, including a .sketch file with one shared layer style to give them all the same outline.
 
 
@@ -11,5 +11,7 @@ Will be updated on a regular base until all flags are here.
 - North America
 <img src="https://d13yacurqjgara.cloudfront.net/users/7576/screenshots/2157581/dribbble_2x.png">
 
-## Next:
 - Africa
+
+## Working on:
+- Asia
