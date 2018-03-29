@@ -1,16 +1,22 @@
 # Lightspeed Flags
-An opensource flag set made possible by the Lightspeed Design team.
-All flags are available in 16x12 and 32x24, including a .sketch file with one shared layer style to give them all the same outline.
+An open source flag set made possible by the Lightspeed Design team. 
+All flags are 16x12 and available in SVG, 1x, 2x, and 3x PNG.
 
+The flags are also available as a Framer module and React components.
 
-# Currently available:
-- Europe
-<img src="https://d13yacurqjgara.cloudfront.net/users/7576/screenshots/1921348/europedribbble_2x.png">
+# Available flags:
+![North America](preview/North America.png)
 
-- North America
-<img src="https://d13yacurqjgara.cloudfront.net/users/7576/screenshots/2157581/dribbble_2x.png">
+![CentralandSouthAmerica](preview/Central and South America.png)
 
-- Africa
+![Europe](preview/Europe.png)
 
-## Working on:
-- Asia
+![Africa](preview/Africa.png)
+
+![Middle East](preview/Middle East.png)
+
+![Asia](preview/Asia.png)
+
+![Oceania](preview/Other.png)
+
+![Other](preview/Other.png)
