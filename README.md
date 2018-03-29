@@ -17,6 +17,6 @@ The flags are also available as a Framer module and React components.
 
 ![Asia](preview/Asia.png)
 
-![Oceania](preview/Other.png)
+![Oceania](preview/Oceania.png)
 
 ![Other](preview/Other.png)
